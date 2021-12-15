@@ -1,4 +1,4 @@
-# One-Dimensional-Chain
+# One-Dimensional-Chain - Readme file
 
 I have uploaded some codes of my project on Thermal Conduction in single-dimension chains.
 
